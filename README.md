@@ -16,5 +16,5 @@ Install dependencies using
 2. Make sure you have loaded the input files in the same directory as the main models
 2. Run the specific model:
 ```bash
-python comp9417_rf_submission.py
+python rf.py
 ```
